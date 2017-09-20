@@ -45,14 +45,14 @@ body{
     }
     .product p{
     	font-size: ;
-    	font-family: Arial, Helvetica, sans-serif;
+    	font-family: Arial, sans-serif;
     	color: #555;
 
     }
     .value{
 
     	font-size: ;
-    	font-family: Arial, Helvetica, sans-serif;
+    	font-family: Arial, sans-serif;
     	color: #555;
     }
     .header {
@@ -216,3 +216,4 @@ body{
     #2{
     	background: #999;
     }
+    
